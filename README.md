@@ -17,5 +17,4 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beatrizcesarsilva-5&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=beatrizcesarsilva-5&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beatrizcesarsilva-5&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=beatrizcesarsilva-5&redirect=true)
